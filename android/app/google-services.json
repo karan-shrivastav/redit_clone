@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564015526724",
+    "project_id": "reditclone-233c1",
+    "storage_bucket": "reditclone-233c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564015526724:android:ac5013430e99d0a9c95d11",
+        "android_client_info": {
+          "package_name": "com.example.redit_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564015526724-9pso6n3jc90oqpla6r2bp7aggjcrfep7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDseN3VPneo9p4DvXHkqRQiP6-esetbKGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564015526724-9pso6n3jc90oqpla6r2bp7aggjcrfep7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
